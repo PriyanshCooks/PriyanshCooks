@@ -1,6 +1,6 @@
-[![MasterHead]([https://ar.pinterest.com/pin/782500504031871499/)}
+[![MasterHead]([https://kemdiabetes.org/?g=do-a-beautiful-animated-gif-in-pixelart-for-streamings-qq-j8mddmtg])]
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
-<h3 align="center">A passionate frontend developer from India India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshcooks&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshcooks" /> </p>
