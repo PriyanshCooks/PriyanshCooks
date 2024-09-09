@@ -1,8 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
+![image](https://github.com/user-attachments/assets/36a1035b-213e-4430-83fe-a0b5a8201201)![image](https://github.com/user-attachments/assets/ee00c9ba-bc4a-4fd8-ae4f-eb919a3ed10a)![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyanshcooks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
