@@ -2,27 +2,36 @@
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+---
 
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshcooks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshcooks" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshcooks" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/priyans29033412" target="blank"><img src="https://img.shields.io/twitter/follow/priyans29033412?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/priyans29033412" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/priyans29033412?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
-
-- 🔭 I’m currently working on **Metro Navigator**
-- 🌱 I’m currently learning **AIML Algorithms, ML Models, Web Development**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">🔭 I'm currently working on</h3>
+<p align="center">**Metro Navigator**</p>
+
+<h3 align="center">🌱 I'm currently learning</h3>
+<p align="center">**AIML Algorithms, ML Models, Web Development**</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/priyans29033412" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -36,8 +45,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
@@ -70,13 +79,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshcooks&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshcooks&show_icons=true&locale=en&layout=compact&hide=html" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&locale=en&custom_title=GitHub%20Stats&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshcooks" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshcooks&background=0d1117&stroke=586e75&ring=51afc8&fire=ff6c6b&currStreakNum=51afc8&sideNums=ffffff&currStreakLabel=51afc8&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
