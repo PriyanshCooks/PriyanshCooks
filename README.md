@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36a1035b-213e-4430-83fe-a0b5a8201201)![image](https://github.com/user-attachments/assets/ee00c9ba-bc4a-4fd8-ae4f-eb919a3ed10a)![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
+![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
