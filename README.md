@@ -79,11 +79,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshcooks&show_icons=true&locale=en&layout=compact&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshcooks&show_icons=true&locale=en&layout=compact&hide=html&bg_color=0d1117&title_color=51afc8&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&locale=en&custom_title=GitHub%20Stats&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&locale=en&custom_title=GitHub%20Stats&hide_title=true&bg_color=0d1117&title_color=51afc8&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
