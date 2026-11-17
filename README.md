@@ -1,169 +1,186 @@
 
-<!-- ===================================================== -->
-<!--                 PRIYANSH BHATT                        -->
-<!-- ===================================================== -->
+<!-- =====================================================
+     PRIYANSH BHATT — GITHUB PROFILE
+     Creative Tech / Dark Cinematic / Electric Blue
+====================================================== -->
 
 <div align="center">
 
-# Priyansh Bhatt
+<!-- HERO GIF
+     Add your animated banner at: assets/hero.gif
+     Replace this with your own cinematic GIF.
+-->
+<img src="assets/hero.gif" width="100%" alt="Priyansh — Creative Tech"/>
+
+<br/>
+
+# Hey, I'm Priyansh.
 
 ### AI Engineer · Agentic AI · Generative AI
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=51AFC8&center=true&vCenter=true&width=650&lines=Engineering+Intelligent+AI+Systems;Building+Agentic+AI+Architectures;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;From+Ideas+to+Production" alt="Typing animation"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=64D8FF&center=true&vCenter=true&width=650&lines=I+build+AI+agents.+Actually.;Making+LLMs+do+more+than+autocomplete.;Sometimes+I+make+videos+instead+of+debugging.;Curiosity+has+an+unreasonable+CPU+usage." alt="Typing SVG"/>
 
-<p>
-  <a href="https://github.com/priyanshcooks">
-    <img src="https://komarev.com/ghpvc/?username=priyanshcooks&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/priyanshcooks?tab=followers">
-    <img src="https://img.shields.io/github/followers/priyanshcooks?style=for-the-badge&color=51AFC8&label=FOLLOWERS" alt="Followers"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/priyanshcooks">
+  <img src="https://komarev.com/ghpvc/?username=priyanshcooks&style=flat-square&color=161B22&label=VISITORS" alt="Profile views"/>
+</a>
+&nbsp;
+<a href="https://github.com/priyanshcooks?tab=followers">
+  <img src="https://img.shields.io/github/followers/priyanshcooks?style=flat-square&color=161B22&label=FOLLOWERS" alt="Followers"/>
+</a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## A little about me
 
-I'm an AI Engineer focused on designing and building intelligent systems that solve real-world problems.
+I build AI agents. Actually.
 
-My interests lie at the intersection of **Generative AI, Agentic AI, LLMs, and scalable software engineering**.
+Not just connect a few nodes and call it Agentic AI.
 
-I enjoy moving beyond experimentation — building AI agents, connecting tools, orchestrating workflows, and developing systems that can operate reliably in production environments.
+I'm interested in what happens when LLMs can reason, use tools, coordinate with other agents, retrieve information and actually get things done.
 
-- 🧠 Specialization: Agentic AI & Generative AI
-- 🔗 Focus: AI Agent Orchestration, MCP, RAG
-- ☁️ Cloud: Microsoft Azure
-- ⚙️ Engineering: Python, FastAPI, APIs & distributed systems
-- 🎓 B.Tech Computer Science & Engineering — AI & ML
+My work revolves around building AI systems that go beyond demos and make sense in real-world environments.
 
----
+When I'm not experimenting with AI, there's a good chance I'm behind a camera, editing a video, exploring visual art or making something creative.
 
-## `$ expertise --list`
+**A few things I spend an unreasonable amount of time thinking about:**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-- Generative AI
-- Large Language Models
-- Agentic AI Systems
-- Multi-Agent Architectures
-- LangGraph Orchestration
-- MCP & FastMCP
-- RAG & Agentic RAG
-- AI Evaluation & Observability
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Software Engineering
-
-- Python
-- FastAPI & Flask
-- REST APIs
-- React & JavaScript
-- MongoDB & PostgreSQL
-- MySQL & Redis
-- Docker & Git
-- Microsoft Azure
-
-</td>
-</tr>
-</table>
+- Agentic AI and multi-agent orchestration
+- LLMs, RAG and intelligent automation
+- MCP servers and tool integrations
+- Building production-ready AI applications
+- Computer graphics, filmmaking and visual storytelling
 
 ---
 
-## `$ tech_stack`
+## Things I've been building
+
+### 01 / Agentic AI
+
+AI agents, orchestration and enterprise automation.
+
+- Worked on AI agent orchestration using LangGraph.
+- Implemented MCP servers using FastMCP.
+- Explored Agentic RAG and intelligent workflows.
+- Worked on AI evaluation and observability.
+
+### 02 / Generative AI
+
+Making language models useful beyond a chat window.
+
+- RAG pipelines and knowledge retrieval.
+- LLM-powered applications.
+- Multi-step reasoning and tool calling.
+- Context-aware AI assistants.
+
+### 03 / Software Engineering
+
+Because the AI still needs somewhere to run.
+
+- Python, FastAPI and REST APIs.
+- MongoDB, PostgreSQL, Redis and MySQL.
+- Azure services and cloud-native applications.
+- Docker and backend integrations.
+
+---
+
+## A few things I've built
+
+<div align="center">
+
+| Project | What it does |
+|:---|:---|
+| **EPINET Chatbot** | AI-powered chatbot for the ONGC EPINET portal. |
+| **UNGLI – Leads Factory** | An intelligent pipeline combining product Q&A, web search, scraping and company mapping. |
+| **Kisan Mitra** | Crop recommendations and plant disease detection using ML. |
+| **Metro Navigator** | Finding routes using graph algorithms and Dijkstra's shortest path. |
+
+</div>
+
+---
+
+## A little less code, a little more camera
+
+AI is a big part of what I do, but it isn't the only thing I enjoy making.
+
+Filmmaking, photography, editing and visual storytelling have always been part of the picture.
+
+<div align="center">
+
+<!-- Replace VIDEO_ID_1 and VIDEO_ID_2 with actual YouTube video IDs.
+     Replace VIDEO_TITLE_1 and VIDEO_TITLE_2 with your video titles.
+-->
+
+<a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="48%" alt="VIDEO_TITLE_1"/>
+</a>
+<a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
+  <img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="48%" alt="VIDEO_TITLE_2"/>
+</a>
+
+</div>
+
+<p align="center">
+  <sub>Click a frame. There's probably a story behind it.</sub>
+</p>
+
+---
+
+## The toolbox
 
 <div align="center">
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,fastapi,flask&perline=9" alt="Languages and Frameworks"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,fastapi,flask&perline=10" alt="Languages and frameworks"/>
 
 ### AI / ML & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,postgres&perline=9" alt="AI ML and Data Tools"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,postgres&perline=9" alt="AI ML and data"/>
 
-### Cloud & DevOps
+### Cloud & Development
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=9" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=8" alt="Cloud and development"/>
 
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/FastMCP-20232A?style=flat-square" alt="FastMCP"/>
-  <img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LLMs-6741D9?style=flat-square" alt="LLMs"/>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/FastMCP-20232A?style=flat-square" alt="FastMCP"/>
+<img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6741D9?style=flat-square" alt="Agentic AI"/>
 
 </div>
 
 ---
 
-## `$ projects --featured`
-
-### 01. Agentic AI & Enterprise Automation
-
-Building intelligent workflows using AI agents, orchestration, MCP servers and enterprise integrations.
-
-**Focus:** LangGraph · FastMCP · RAG · Azure
-
-### 02. EPINET Chatbot
-
-An AI-powered chatbot developed for the ONGC EPINET portal.
-
-**Focus:** Python · AI/ML · Chatbot Development
-
-### 03. UNGLI — Leads Factory
-
-An intelligent lead-generation pipeline combining product Q&A, search, web scraping and company-mapping agents.
-
-**Focus:** Python · FastAPI · MongoDB · AI Agents
-
-### 04. Kisan Mitra
-
-An agricultural intelligence application involving crop recommendation and plant disease detection.
-
-**Focus:** Machine Learning · CNN · TensorFlow
-
-### 05. Metro Navigator
-
-A route-navigation project using graph algorithms and Dijkstra's shortest-path algorithm.
-
-**Focus:** Data Structures · Graph Algorithms · Python
-
----
-
-## `$ github --stats`
+## GitHub, apparently
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=priyanshcooks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshcooks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64D8FF&icon_color=64D8FF" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshcooks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64D8FF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=priyanshcooks&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=priyanshcooks&theme=tokyonight&hide_border=true&background=0D1117&ring=64D8FF&fire=FF6C6B&currStreakLabel=64D8FF" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## `$ connect --with-me`
-
 <div align="center">
 
+### Find me elsewhere
+
+<a href="https://www.linkedin.com/in/priyansh-bhatt09">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://github.com/priyanshcooks">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/priyans29033412">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://instagram.com/priyansh.bhatt09">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -174,8 +191,6 @@ A route-navigation project using graph algorithms and Dijkstra's shortest-path a
 
 <br/><br/>
 
-**Open to interesting AI engineering opportunities and collaborations.**
-
-<i>Currently teaching machines to think. They're getting a little too good at it.</i>
+<sub>Usually building something. Occasionally wondering why it works.</sub>
 
 </div>
