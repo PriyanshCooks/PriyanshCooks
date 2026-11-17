@@ -1,22 +1,18 @@
- <div align="center">
-
-<img src="assets/Cyberpunk%20Workstation_%20From%20Build%20to%20Live.gif" width="100%" alt="Cyberpunk Workstation — From Build to Live"/>
-
-<br/>
+&#x20;\<div align="center">
+&#x20; \<img src="assets/priyansh-cozy-ai-workspace-fixed.gif" width="100%" alt="Priyansh's AI workspace"/>
+\</div>
 
 # Hey, I'm Priyansh.
 
 ### AI Engineer · Agentic AI · Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=64D8FF&center=true&vCenter=true&width=650&lines=I+build+AI+agents.+Actually.;Making+LLMs+do+more+than+autocomplete.;Building+things+that+occasionally+work+first+try.;Curiosity+has+an+unreasonable+CPU+usage." alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=priyanshcooks&style=flat-square&color=161B22&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/priyanshcooks?style=flat-square&color=161B22&label=FOLLOWERS" alt="GitHub Followers"/>
-
-</div>
+\<div align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=64D8FF&center=true&vCenter=true&width=650&lines=I+build+AI+agents.+Actually.;Making+LLMs+do+more+than+autocomplete.;Building+things+that+occasionally+work+first+try.;Curiosity+has+an+unreasonable+CPU+usage](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=2800\&pause=900\&color=64D8FF\&center=true\&vCenter=true\&width=650\&lines=I+build+AI+agents.+Actually.;Making+LLMs+do+more+than+autocomplete.;Building+things+that+occasionally+work+first+try.;Curiosity+has+an+unreasonable+CPU+usage)" alt="Typing SVG"/>
+&#x20; \<br/>
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=priyanshcooks&style=flat-square&color=161B22&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=priyanshcooks\&style=flat-square\&color=161B22\&label=PROFILE+VIEWS)" alt="Profile Views"/>
+&#x20; &nbsp;
+&#x20; \<img src="[https://img.shields.io/github/followers/priyanshcooks?style=flat-square&color=161B22&label=FOLLOWERS](https://img.shields.io/github/followers/priyanshcooks?style=flat-square\&color=161B22\&label=FOLLOWERS)" alt="GitHub Followers"/>
+\</div>
 
 ---
 
@@ -67,68 +63,65 @@ A few things I spend an unreasonable amount of time thinking about:
 
 ## A few things I've built
 
-| Project | What it does |
-|:---|:---|
-| **EPINET Chatbot** | AI-powered chatbot developed for the ONGC EPINET portal. |
+| Project                   | What it does                                                                                          |
+| :------------------------ | :---------------------------------------------------------------------------------------------------- |
+| **EPINET Chatbot**        | AI-powered chatbot developed for the ONGC EPINET portal.                                              |
 | **UNGLI – Leads Factory** | Intelligent lead-generation pipeline combining product Q&A, web search, scraping and company mapping. |
-| **Kisan Mitra** | Crop recommendations and plant disease detection using machine learning. |
-| **Metro Navigator** | Route navigation using graph algorithms and Dijkstra's shortest-path algorithm. |
+| **Kisan Mitra**           | Crop recommendations and plant disease detection using machine learning.                              |
+| **Metro Navigator**       | Route navigation using graph algorithms and Dijkstra's shortest-path algorithm.                       |
 
 ---
 
 ## The toolbox
 
-<div align="center">
+\<div align="center">
 
-### Languages & Frameworks
+\<h3>Languages & Frameworks\</h3>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,fastapi,flask&perline=10" alt="Languages and Frameworks"/>
+\<img src="[https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,fastapi,flask&perline=10](https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,fastapi,flask\&perline=10)" alt="Languages and Frameworks"/>
 
-### AI / ML & Data
+\<h3>AI / ML & Data\</h3>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,postgres&perline=9" alt="AI ML and Data"/>
+\<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,postgres&perline=9](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,mysql,postgres\&perline=9)" alt="AI ML and Data"/>
 
-### Cloud & Development
+\<h3>Cloud & Development\</h3>
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=8" alt="Cloud and Development"/>
+\<img src="[https://skillicons.dev/icons?i=azure,docker,git,github&perline=8](https://skillicons.dev/icons?i=azure,docker,git,github\&perline=8)" alt="Cloud and Development"/>
 
-<br/>
+\<br/>
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/FastMCP-20232A?style=flat-square" alt="FastMCP"/>
-<img src="https://img.shields.io/badge/RAG-0A7EA4?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6741D9?style=flat-square" alt="Agentic AI"/>
+\<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)" alt="LangGraph"/> \<img src="[https://img.shields.io/badge/FastMCP-20232A?style=flat-square](https://img.shields.io/badge/FastMCP-20232A?style=flat-square)" alt="FastMCP"/> \<img src="[https://img.shields.io/badge/RAG-0A7EA4?style=flat-square](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)" alt="RAG"/> \<img src="[https://img.shields.io/badge/Agentic_AI-6741D9?style=flat-square](https://img.shields.io/badge/Agentic_AI-6741D9?style=flat-square)" alt="Agentic AI"/>
 
-</div>
+\</div>
 
 ---
 
 ## GitHub, apparently
 
-<div align="center">
+\<div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=priyanshcooks&theme=tokyonight&hide_border=true&background=0D1117&ring=64D8FF&fire=FF6C6B&currStreakLabel=64D8FF" alt="GitHub Contribution Streak"/>
+\<img width="75%" src="[https://streak-stats.demolab.com/?user=priyanshcooks&theme=tokyonight&hide_border=true&background=0D1117&ring=64D8FF&fire=FF6C6B&currStreakLabel=64D8FF](https://streak-stats.demolab.com/?user=priyanshcooks\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=64D8FF\&fire=FF6C6B\&currStreakLabel=64D8FF)" alt="GitHub Contribution Streak"/>
 
-</div>
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-### Find me elsewhere
+\<h3>Find me elsewhere\</h3>
 
-<a href="https://www.linkedin.com/in/priyansh-bhatt09">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/priyansh.bhatt09">
-  <img src="https://img.shields.io/badge/Instagram-@priyansh.bhatt09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/priyanshcooks">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+\<a href="[https://www.linkedin.com/in/priyansh-bhatt09](https://www.linkedin.com/in/priyansh-bhatt09)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+\</a>
+\<a href="[https://instagram.com/priyansh.bhatt09](https://instagram.com/priyansh.bhatt09)">
+&#x20; \<img src="[https://img.shields.io/badge/Instagram-@priyansh.bhatt09-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-@priyansh.bhatt09-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram"/>
+\</a>
+\<a href="[https://github.com/priyanshcooks](https://github.com/priyanshcooks)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+\</a>
 
-<br/><br/>
+\<br/>\<br/>
 
-<sub>Still curious. Still experimenting. Occasionally surprised when everything works on the first run.</sub>
+\<sub>Still curious. Still experimenting. Occasionally surprised when everything works on the first run.\</sub>
 
-</div>
+\</div>
