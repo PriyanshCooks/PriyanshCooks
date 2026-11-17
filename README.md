@@ -1,91 +1,91 @@
-![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)
-<h1 align="center">Hi 👋, I'm Priyansh</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Priyansh Bhatt</h1>
+<h3 align="center">AI Engineer | Generative AI | Agentic AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=51AFC8&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Exploring+Agentic+AI+%26+LLMs;Turning+Ideas+Into+Production-Ready+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshcooks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshcooks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshcooks" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🚀 About Me
 
-<p align="center">
+- 🤖 AI Engineer passionate about building intelligent applications.
+- 🧠 Interested in Generative AI, Agentic AI, LLMs and Deep Learning.
+- 🔗 Experienced with AI agent orchestration, MCP servers and RAG pipelines.
+- ☁️ Exploring scalable, production-ready AI architectures using Azure.
+- 🎬 Also passionate about filmmaking, photography and visual storytelling.
+- 📍 Based in India.
+
+---
+
+## 🔭 Areas of Focus
+
+- Agentic AI & Multi-Agent Systems
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agent Orchestration with LangGraph
+- Model Context Protocol (MCP) with FastMCP
+- AI Evaluation & Observability
+- Cloud-Native AI Applications
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://twitter.com/priyans29033412" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/priyans29033412?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🔭 I'm currently working on</h3>
-<p align="center">**Metro Navigator**</p>
-
-<h3 align="center">🌱 I'm currently learning</h3>
-<p align="center">**AIML Algorithms, ML Models, Web Development**</p>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/priyans29033412" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/priyansh.bhatt09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.leetcode.com/priyanshcooks" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/priyanshcooks" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,fastapi,flask,mongodb,mysql,postgres,docker,git,azure,tensorflow,pytorch&perline=9" alt="Tech Stack"/>
+</p>
+
+### AI & Agentic AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/FastMCP-20232A?style=for-the-badge" alt="FastMCP"/>
+  <img src="https://img.shields.io/badge/RAG-0A7EA4?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLMs-6741D9?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" alt="Generative AI"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=priyanshcooks&show_icons=true&theme=dark&hide_border=true&title_color=51afc8&icon_color=51afc8" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshcooks&layout=compact&theme=dark&hide_border=true&title_color=51afc8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=priyanshcooks&theme=dark&hide_border=true&ring=51AFC8&fire=FF6C6B&currStreakLabel=51AFC8" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshcooks&show_icons=true&locale=en&layout=compact&hide=html&bg_color=0d1117&title_color=51afc8&text_color=ffffff" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshcooks&show_icons=true&locale=en&custom_title=GitHub%20Stats&hide_title=true&bg_color=0d1117&title_color=51afc8&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshcooks&background=0d1117&stroke=586e75&ring=51afc8&fire=ff6c6b&currStreakNum=51afc8&sideNums=ffffff&currStreakLabel=51afc8&sideLabels=ffffff" alt="GitHub Streak" />
+  <i>Building things, breaking things, and learning something new every day.</i>
 </p>
